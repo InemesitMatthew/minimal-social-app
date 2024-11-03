@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337669326034",
+    "project_id": "learning-minimal-social-media",
+    "storage_bucket": "learning-minimal-social-media.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337669326034:android:5f8357e9ea9ff73f93d90b",
+        "android_client_info": {
+          "package_name": "com.example.learning_minimal_social_media_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3XABpuVSVY4v-cuVmlv2RtQpWqPRBV8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
